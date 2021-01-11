@@ -1,0 +1,12 @@
+C:\Users\jerem\source\repos\RNG\RNG\bin\x86\Debug\RNG.exe.config
+C:\Users\jerem\source\repos\RNG\RNG\bin\x86\Debug\RNG.exe
+C:\Users\jerem\source\repos\RNG\RNG\bin\x86\Debug\RNG.pdb
+C:\Users\jerem\source\repos\RNG\RNG\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.Main.resources
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.Properties.Resources.resources
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.csproj.CopyComplete
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.exe
+C:\Users\jerem\source\repos\RNG\RNG\obj\x86\Debug\RNG.pdb
